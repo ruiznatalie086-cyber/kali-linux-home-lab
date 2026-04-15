@@ -52,4 +52,5 @@ The Overall Skills I Gained:
 - Set up a virtual cybersecurity lab
 - Used Linux terminal commands
 - Performed basic network scanning and analysis
+- Practiced commands in a controlled virtual lab environment
 - Practiced safe system management
